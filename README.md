@@ -59,4 +59,4 @@ Legend VPN поддерживается следующими приложени�
 
 ## 📞 Поддержка
 
-Telegram: https://t.me/Legenda_Dev  
+Telegram: https://t.me/Legenda_CR
